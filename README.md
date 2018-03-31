@@ -4,7 +4,7 @@ CarND Kidnapped Vehicle Project from Self Driving Car Nanodegree of Udacity
 Source code: [https://github.com/ricardoues/CarND-Kidnapped-Vehicle-Project/tree/master/src](https://github.com/ricardoues/CarND-Kidnapped-Vehicle-Project/tree/master/src)
 
 ## How to compile the project
-Clone the repository and run the following bash script:
+Clone the repository and inside the main directory run the following command:
 
 ./build.sh 
 
